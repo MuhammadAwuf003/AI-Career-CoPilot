@@ -1,0 +1,15 @@
+Software Engineer - Data Platform
+
+We are seeking an experienced software engineer to join the data platform team. The ideal candidate has strong Python skills and a background in building scalable pipelines.
+
+Responsibilities:
+- Design and develop data processing workflows using Python and SQL.
+- Collaborate with cross-functional teams to deliver analytic solutions.
+- Build APIs and dashboards using modern visualization tools.
+- Apply DevOps best practices to deployment and monitoring.
+
+Requirements:
+- 3+ years of experience in software development.
+- Hands-on experience with Python, SQL, and AWS.
+- Familiarity with Docker, Kubernetes, and Git.
+- Strong communication skills and ability to work in agile teams.

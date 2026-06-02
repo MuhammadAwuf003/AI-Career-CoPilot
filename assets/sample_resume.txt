@@ -1,0 +1,21 @@
+John Doe
+Software Engineer
+
+Summary
+Experienced software engineer with a strong background in Python, SQL, and cloud-native application development.
+
+Skills
+Python, SQL, AWS, Docker, Kubernetes, Git, REST APIs, Streamlit, Pandas, NumPy, Data Visualization
+
+Experience
+Software Engineer, Tech Company
+- Developed ETL pipelines and analytics dashboards using Python and SQL.
+- Built and deployed microservices with Docker and Kubernetes.
+- Collaborated with product and data teams to deliver high-impact features.
+
+Education
+Bachelor of Science in Computer Science
+University of Technology
+
+Projects
+Data Insights Dashboard - Created interactive dashboards with Plotly and Streamlit to visualize performance metrics.
