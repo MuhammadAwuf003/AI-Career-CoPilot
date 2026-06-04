@@ -84,3 +84,8 @@ streamlit run app.py
 - The app uses a lightweight SQLite database stored at `database/applications.db`
 - Resume parsing uses keyword heuristics and skill inventory matching
 - The platform is designed for professional presentation and recruiter-ready workflows
+
+## Live Demo
+
+Deployed on Render:
+https://ai-career-copilot-0pno.onrender.com/
